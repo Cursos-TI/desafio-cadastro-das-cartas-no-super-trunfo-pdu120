@@ -91,5 +91,6 @@ int main() {
     printf("PIB per capita: %.2f reais\n", pibpercapita02);
 
     return 0;
+    
 }
 
